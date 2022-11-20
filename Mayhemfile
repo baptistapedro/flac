@@ -1,0 +1,5 @@
+project: flac2wav
+target: flac2wav
+cmds:
+  - cmd: /flac2wav @@
+    env: {}
